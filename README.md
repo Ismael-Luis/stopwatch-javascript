@@ -1,6 +1,6 @@
-# ⏱️ Timer JavaScript 
+# ⏱️ Stopwatch JavaScript 
 
-Projeto de Timer desenvolvido como exercício prático para aprendizado de JavaScript e manipulação do DOM.  
+Projeto de Stopwatch desenvolvido como exercício prático para aprendizado de JavaScript e manipulação do DOM.  
 Embora o projeto seja voltado para estudo e apresentação a empresas brasileiras, **o código está todo em inglês** (nomes de variáveis, funções e comentários) seguindo boas práticas de programação.
 
 ---
@@ -8,7 +8,7 @@ Embora o projeto seja voltado para estudo e apresentação a empresas brasileira
 ## 🎯 Objetivo
 
 - Praticar manipulação de elementos do DOM (`querySelector`, `getElementById`)  
-- Trabalhar com eventos (`click`) para iniciar, pausar e resetar o timer  
+- Trabalhar com eventos (`click`) para iniciar, pausar e resetar o Stopwatch  
 - Utilizar `setInterval` e `clearInterval` para controlar o tempo dinamicamente  
 - Praticar JSON e localStorage
 ---
@@ -23,7 +23,7 @@ Embora o projeto seja voltado para estudo e apresentação a empresas brasileira
 
 ## 🔹 Funcionalidades
 
-- Iniciar, pausar e zerar o timer  
+- Iniciar, pausar e zerar o Stopwatch  
 - Visualização do tempo em horas, minutos e segundos  
 - Código organizado com boas práticas, nomes de variáveis e funções em inglês
 - Manter o tempo mesmo se o site for fechado ou atualizado
