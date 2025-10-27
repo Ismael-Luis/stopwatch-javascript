@@ -1,4 +1,4 @@
-function timer() {
+function stopwatch() {
 
 const timer = document.querySelector('.input-timer');
 const btnStart = document.querySelector('.btn-start');
@@ -55,4 +55,4 @@ function saveTime() {
 }
 saveTime()
 }
-timer()
+stopwatch()
